@@ -1,0 +1,20 @@
+	1
+creamy		F7F6E2
+orange		F66A35
+blue		27A7D8
+green		1A7E40
+dark blue	081638
+
+	2
+red		D72F25
+yellow		FA8F2F
+creamy		F9F7E1
+blue		2BADAD
+dark blue	1F2E5A
+
+	3
+green		128867
+blue		11CAC5
+silver		C0C0C0
+orange		EA9E41
+red		E04031
