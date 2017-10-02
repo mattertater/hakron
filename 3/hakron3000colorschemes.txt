@@ -1,20 +1,21 @@
+		HEX	  R,   G,   B
 	1
-creamy		F7F6E2
-orange		F66A35
-blue		27A7D8
-green		1A7E40
-dark blue	081638
+creamy		F7F6E2	247, 246, 226
+orange		F66A35	246, 106,  53
+blue		27A7D8	 39, 167, 216
+green		1A7E40	 26, 126,  64
+dark blue	081638	  8,  22,  56
 
 	2
-red		D72F25
-yellow		FA8F2F
-creamy		F9F7E1
-blue		2BADAD
-dark blue	1F2E5A
+red		D72F25	215,  47,  37
+yellow		FA8F2F  250, 143,  47
+creamy		F9F7E1  249, 247, 225
+blue		2BADAD	 43, 173, 173
+dark blue	1F2E5A	 31,  46,  90
 
 	3
-green		128867
-blue		11CAC5
-silver		C0C0C0
-orange		EA9E41
-red		E04031
+green		128867	 18, 136, 103
+blue		11CAC5	 17, 202, 197
+silver		C0C0C0	192, 192, 192
+orange		EA9E41	234, 158,  65
+red		E04031	224,  64,  49
