@@ -1,0 +1,20 @@
+COLORS				 r      g      b      hex
+
+background dark blue             7      14     32     #070E20
+planet shadow blue               11     24     56     #0B1838
+planet main blue                 31     47     90     #1F2F5A
+text light blue                  40     167    215    #28A7D7
+accent pink                      190    112    174    #BE70AE
+star/text white                  247    245    226    #F7F5E2
+moon light                       230    225    206    #E6E1CE
+moon dark                        192    192    192    #C0C0C0
+planet light                     242    107    55     #F26B37
+planet dark(opacity 20%)         215    48     39     #D73027
+
+FONTS
+Avayx (what the logo is based off of)
+Audiowide Regular (headers on hakron.io)
+Electric Boots (headers on sponsor packet)
+Prototype (paragraphs on hakron.io)
+Oblivious (FAQ on hakron.io)
+Fira Mono (switcher on hakron.io "calling all")
